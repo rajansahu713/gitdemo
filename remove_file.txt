@@ -1,1 +1,0 @@
-How to remove a file from git after mentioning in Git.
